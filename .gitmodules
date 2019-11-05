@@ -1,0 +1,3 @@
+[submodule "themes/agency"]
+	path = themes/agency
+	url = git@github.com:jake-dog/hugo-agency-theme.git
